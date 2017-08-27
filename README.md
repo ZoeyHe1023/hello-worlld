@@ -1,2 +1,2 @@
 # hello-worlld
-Hi
+printf hello world
